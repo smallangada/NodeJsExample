@@ -10,6 +10,7 @@ Installation
 ```sh
 git clone https://github.com/smallangada/NodeJsExample.git NodeJsExample
 cd NodeJsExample
+node install
 ```
 
 ```sh
